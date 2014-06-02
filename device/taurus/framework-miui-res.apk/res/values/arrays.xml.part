@@ -33,10 +33,4 @@
         <item>pt_PT</item>
         <item>uk_UA</item>  	
     </string-array>	
-	<string-array name="font_size_scale">
-        <item>0.8</item>
-        <item>0.85</item> 
-        <item>0.95</item>
-        <item>1.1</item>
-    </string-array>
 </resources>
